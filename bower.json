@@ -1,0 +1,26 @@
+{
+  "name": "angular-mobile-seed",
+  "version": "0.0.1",
+  "authors": [
+    "Stephane Paul <stephane.paul@gmail.com>"
+  ],
+  "description": "angular-mobile-seed",
+  "keywords": [
+    "angular",
+    "mobile",
+    "seed",
+    "bootstrap",
+    "offcanvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+2"
+  }
+}
